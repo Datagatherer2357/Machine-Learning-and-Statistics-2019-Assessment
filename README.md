@@ -1,7 +1,7 @@
 # Machine-Learning-and-Statistics-2019-Assessment
 Assessment for Machine Learning &amp; Statistics
 
-## Gareth-Duffy - (G00364693) - GMIT - Hdip Data Analytics
+## Gareth-Duffy - (G00364693) - GMIT - Higher Diploma in Data Analytics
 
 <img src="https://image.ibb.co/gw4Gen/Index_GMIT.png" alt="Index GMIT" border="0" />
 
