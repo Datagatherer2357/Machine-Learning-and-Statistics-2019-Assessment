@@ -6,10 +6,11 @@ Assessment for Machine Learning &amp; Statistics
 <img src="https://image.ibb.co/gw4Gen/Index_GMIT.png" alt="Index GMIT" border="0" />
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-### Bosteon Housing Data set
+### Boston Housing Data set
 
 * This repository is for Machine Learning and Statistics.
-* It is a project based on The Boston Housing Dataset with specific analytics machine learning techniques applied to. 
+* It is a project based on The Boston Housing Dataset, centered around specific analytics and machine learning techniques applied to it in order to answer a number 
+of questions. 
 * It is in the form a Jupyter Notebook, which demonstrates an investigation of the variables of interest and explores their relationships.
 * The notebook contains Python code only.
 
